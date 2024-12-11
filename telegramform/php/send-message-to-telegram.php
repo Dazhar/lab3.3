@@ -1,10 +1,10 @@
 <?php
 
 // Токен
-  const TOKEN = '';
+  const TOKEN = '7200608408:AAH3C0hRU4-1eFCfT7Ix838rDGpgs5fiZ80';
 
   // ID чата
-  const CHATID = '';
+  const CHATID = '-4742925738';
 
   // Массив допустимых значений типа файла. Популярные типы файлов можно посмотреть тут: https://docs.w3cub.com/http/basics_of_http/mime_types/complete_list_of_mime_types
   $types = array('image/gif', 'image/png', 'image/jpeg', 'application/pdf');
